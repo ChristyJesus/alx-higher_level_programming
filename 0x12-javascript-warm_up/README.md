@@ -1,2 +1,1 @@
-its javascript season
-
+its javascript seasons
